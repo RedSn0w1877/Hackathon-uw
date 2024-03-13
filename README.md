@@ -1,3 +1,3 @@
 # Hackathon
 
-Team Chipos' Submission to the 2024 SHS Hackathon
+Team UwU's Submission to the 2024 National Hackathon
