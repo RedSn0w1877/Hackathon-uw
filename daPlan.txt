@@ -1,1 +1,1 @@
-so we make this thing ai that's basically like chat gpt but if you ask it to do an assignment it refuses and it says like "Thats not a good use of ai" but you can make it come up with examples and stuff. We're gonna call it SchoolGPT. But apparently that already happened so we try do more stuff
+
